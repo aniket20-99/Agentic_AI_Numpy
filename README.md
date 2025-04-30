@@ -10,3 +10,34 @@
 ⚡ Advanced techniques (linear algebra, Fourier transforms, performance optimization)
 
 📘 Real-world examples and mini-projects using NumPy
+
+# 📆 Day 1: Core NumPy Concepts
+
+## 🔢 Array Creation & Conversion
+- Creating NumPy arrays using `np.array()`
+- Converting Python lists to NumPy arrays
+
+### 🔁 Predefined Arrays & Range
+- `np.arange()` – Create sequences of numbers
+- `np.zeros()` – Arrays filled with zeros
+- `np.ones()` – Arrays filled with ones
+
+### 🔲 Multi-dimensional Arrays
+- Creating 2D arrays (matrices)
+- Creating 3D arrays
+- Creating N-dimensional arrays using `ndmin`
+
+### 🎲 Random Number Generation
+- `np.random.rand()` – Random floats between 0 and 1
+- `np.random.randint()` – Random integers in a given range
+
+### ✂️ Slicing & Indexing
+- Accessing specific elements in arrays
+- Slicing arrays (1D, 2D, and 3D)
+- Indexing techniques
+
+### 🔄 Reshaping Arrays
+- Reshaping arrays with `.reshape()`
+- Flattening arrays using `.ravel()` and `.flatten()`
+
+---
